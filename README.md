@@ -7,8 +7,6 @@
 
 ## Overview
 
-<!-->Overview goes here<-->
-
 > [!WARNING]
 > Please be aware that this project is still under active development. As such, it may contain bugs, incomplete features, and frequent changes. Use at your own risk and be prepared for potential issues.
 > 
